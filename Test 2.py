@@ -6,3 +6,4 @@ y= x**3 + 12*x -16
 
 plt.plot(x,y)
 plt.show()
+print(x,y)#printing valjues for x and y
